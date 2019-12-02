@@ -14,8 +14,8 @@ It showcases how MongoDB can be leveraged jointly with Keras that has been incor
 As within my Demo on MongoDB with Mongolite and R, I think that using a Database, that is natural to work with is extremly important for Developer (my own) productivity.
 
 The sample shows how:
-- Models can be stored in MongoDB
 - How the Aggregation Pipeline can be used to prepare base tables from polymorphic data
+- Models can be stored in MongoDB
 - How the Aggregation Pipeline can be used to select the best model across different training runs
 
 All of this allows to reduce the workload on the machine used for the training processes and even more importantly allows for continous training and deployment architectures.
