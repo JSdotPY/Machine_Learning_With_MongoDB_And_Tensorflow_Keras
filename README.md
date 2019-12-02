@@ -45,14 +45,14 @@ Now you can run the Demo.
 
 | Package | Link |
 | ------ | ------ |
-| PyMongo | [https://api.mongodb.com/python/current/][PlDb] |
-| Tensorflow | [https://www.tensorflow.org/][PlGh] |
-| SkLearn | [https://scikit-learn.org/stable/][PlGh] |
-| Matplotlib | [https://matplotlib.org/][PlGh] |
-| Pandas | [https://pandas.pydata.org/][PlGh] |
-| Numpy | [https://numpy.org/][PlGh] |
-| Seaborn | [https://seaborn.pydata.org/][PlGh] |
-| Pickle (Might need to be replaced) | [https://docs.python.org/3/library/pickle.html][PlGh] |
+| PyMongo | [https://api.mongodb.com/python/current/] |
+| Tensorflow | [https://www.tensorflow.org/] |
+| SkLearn | [https://scikit-learn.org/stable/] |
+| Matplotlib | [https://matplotlib.org/] |
+| Pandas | [https://pandas.pydata.org/] |
+| Numpy | [https://numpy.org/] |
+| Seaborn | [https://seaborn.pydata.org/] |
+| Pickle (Might need to be replaced) | [https://docs.python.org/3/library/pickle.html] |
 
 
 
