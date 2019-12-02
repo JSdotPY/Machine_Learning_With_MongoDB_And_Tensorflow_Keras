@@ -2,7 +2,7 @@
 Example on how to conduct efficient Machine-Learning with Python, MongoDB, Tensorflow (Keras).
 
 Python has become the "Swiss Army Knife" for Developers and Datascientists all around the world.
-Using Python nearly all of the most recent technologies can be used as native connectors and APIs are provided.
+By programming in Python nearly all of the most recent technologies can be used as native connectors and APIs are provided.
   - MongoDB
   - Tensorflow
   - Spark
