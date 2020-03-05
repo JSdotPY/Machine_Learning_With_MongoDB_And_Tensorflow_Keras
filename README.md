@@ -1,4 +1,4 @@
-# Machine_Learning_With_MongoDB_And_Tensorflow_Keras
+# AirBnB Rental Price Prediction - Machine Learning With MongoDB And Tensorflow Keras
 Example on how to conduct efficient Machine-Learning with Python, MongoDB, Tensorflow (Keras).
 
 Python has become the "Swiss Army Knife" for Developers and Datascientists all around the world.
