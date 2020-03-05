@@ -22,7 +22,7 @@ All of this allows to reduce the workload on the machine used for the training p
 Especially when using ensemble methods, this comes in handy.
 
 # The Slide-Deck
-Work in Progress
+[Working Draft](https://docs.google.com/presentation/d/1Ny-xHH4DnpYZRJEuM2zXeP43gRS9nwtO6uFBYI_Cg5k/edit?usp=sharing)
 
 # The Demo
 The Demo can be found in the Machine_Learning_With_MongoDB_And_Tensorflow_Keras_Public.py file.
