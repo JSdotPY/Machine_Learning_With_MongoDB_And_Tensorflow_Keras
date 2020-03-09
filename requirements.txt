@@ -1,0 +1,9 @@
+bson
+tensorflow
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+pymongo
+dnspython
